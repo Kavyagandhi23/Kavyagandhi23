@@ -18,20 +18,15 @@ Passionate Data Scientist, Analyst, and ML Engineer with over 2 years of hands-o
 
 
 ## Tech Toolbox 🛠️
-### **Languages**
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()\
+**Languages:** Python, SQL, R Language
 
-### **Frameworks & Libraries** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]()
+**Frameworks & Libraries:** TensorFlow, Keras, PyTorch, Langchain, Vector Databases, Huggingface, SpaCy, PySpark, Numpy, Pandas, NLTK, Matplotlib, Seaborn, Scikit-learn, Flask
 
+**Data Visualization Tools:** Tableau, PowerBI
 
-### **Data Visualization Tools**
+**Tools:** Apache Spark, Apache Beam, Docker, Git, Google BigQuerry
 
-### **Tools:** AWS, GCP, Docker, Git
-
-### **Specialties:** LLMs, Generative AI, NLP
+**Specialties:** LLMs, Generative AI, NLP, Deep Learning, Machine Learning
 
 ## Education 🎓
 - **Masters in Applied Modelling and Quantitative Methods specialization in Big Data Analytics**, Trent University
@@ -44,7 +39,7 @@ Passionate Data Scientist, Analyst, and ML Engineer with over 2 years of hands-o
 
 </details>
 
-🔗 Let's ideate, innovate, and integrate AI into tomorrow. Reach out for collaborations or simply to chat about the endless possibilities of AI!
+🔗 Let's connect to explore collaborative opportunities and shape the future together! 🚀👩‍💻
 
 
 
