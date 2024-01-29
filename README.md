@@ -2,7 +2,7 @@
 ## Hi there, I'm Kavya Gandhi 👋
 
 📍 **Canada**\
-📧 **Email:** [kavyagandhi1312@gmail.com](mailto:kavyagandhi1312@gmail.com)  \
+📧 **Email:** [kavyagandhi1312@gmail.com](mailto:kavyagandhi1223@gmail.com)  \
 🔗 **LinkedIn:** [Kavya](www.linkedin.com/in/kavyagandhi2312)\
 💬 **Medium:** [TechBlogs](https://medium.com/@kavyagandhi1223)
 
